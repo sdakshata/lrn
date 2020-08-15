@@ -1,2 +1,2 @@
 # lrn
-learn
+learn Python programming
